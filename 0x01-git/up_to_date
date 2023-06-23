@@ -1,5 +1,10 @@
 git add .
 git push
+<<<<<<< HEAD
 git commit -m
 git push
 git pull
+=======
+git commit -m 
+git push
+>>>>>>> update_script
